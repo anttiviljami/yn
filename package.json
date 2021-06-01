@@ -1,6 +1,6 @@
 {
   "name": "@anttiviljami/yn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sindre's yn lib but with German support",
   "main": "yn.js",
   "scripts": {
